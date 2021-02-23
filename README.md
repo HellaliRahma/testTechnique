@@ -1,2 +1,2 @@
 # testTechnique
-# les réponses se trouve dans la branche master
+# Les réponses se trouvent dans la branche master
